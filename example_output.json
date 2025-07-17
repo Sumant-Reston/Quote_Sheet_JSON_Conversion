@@ -1,0 +1,49 @@
+{
+    "PalletID": null,
+    "Details": {
+        "Length": 48.0,
+        "Width": 40.0,
+        "Delivery": "N",
+        "Notched": "Y",
+        "HT": "N",
+        "Type": "New",
+        "Build": {
+            "TOP": {
+                "material": "SPF",
+                "board_number": 4.0,
+                "board_h": 1.0,
+                "board_w": 4.0,
+                "board_l": 40,
+                "pulled_price": 0.4,
+                "board_cost": 0.4444444444,
+                "total_cost": 1.777777778,
+                "nails": 24,
+                "points": 12
+            },
+            "MIDDLE": {
+                "material": "SPF",
+                "board_number": 3.0,
+                "board_h": 2.0,
+                "board_w": "Notched",
+                "board_l": 48,
+                "pulled_price": 0.5,
+                "board_cost": 1.333333333,
+                "total_cost": 4,
+                "nails": null,
+                "points": null
+            },
+            "BOTTOM": {
+                "material": "SPF",
+                "board_number": 4.0,
+                "board_h": 1.0,
+                "board_w": 4.0,
+                "board_l": 40,
+                "pulled_price": 0.4,
+                "board_cost": 0.4444444444,
+                "total_cost": 1.777777778,
+                "nails": 24,
+                "points": 12
+            }
+        }
+    }
+}
