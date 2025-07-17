@@ -5,7 +5,7 @@ A Python application that converts Excel pallet data to JSON format.
 ---------------------------------------------
 ## To Make into exe do 
 pyinstaller --onefile --windowed QSC.py
-May Need to pip install pyinstaller ect...
+- May Need to pip install pyinstaller ect...
 
 -----------------------------------------------
 
